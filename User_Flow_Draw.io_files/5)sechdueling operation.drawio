@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="nW4vqfmZTBqGZgRpP52e">
+    <mxGraphModel dx="1498" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="L1scxzGgN6GbeLCSn8-n-3" edge="1" parent="1" source="6hfOot1SSwlr3GJgOmX9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6hfOot1SSwlr3GJgOmX9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6hfOot1SSwlr3GJgOmX9-1" parent="1" style="whiteSpace=wrap;html=1;" value="Select the farm /select shed /select zone" vertex="1">
+          <mxGeometry height="60" width="120" x="355" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="L1scxzGgN6GbeLCSn8-n-2" edge="1" parent="1" source="6hfOot1SSwlr3GJgOmX9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="6hfOot1SSwlr3GJgOmX9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6hfOot1SSwlr3GJgOmX9-2" parent="1" style="whiteSpace=wrap;html=1;" value="Select the schedule option from dashboard" vertex="1">
+          <mxGeometry height="60" width="120" x="355" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6hfOot1SSwlr3GJgOmX9-7" edge="1" parent="1" source="6hfOot1SSwlr3GJgOmX9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6hfOot1SSwlr3GJgOmX9-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6hfOot1SSwlr3GJgOmX9-4" parent="1" style="whiteSpace=wrap;html=1;" value="set the timings for light starting time, ending time and Ramp Time for the morning" vertex="1">
+          <mxGeometry height="70" width="130" x="345" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="6hfOot1SSwlr3GJgOmX9-9" edge="1" parent="1" source="6hfOot1SSwlr3GJgOmX9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6hfOot1SSwlr3GJgOmX9-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6hfOot1SSwlr3GJgOmX9-6" parent="1" style="whiteSpace=wrap;html=1;" value="set the timings for light starting time ,ending time and Ramp time&amp;nbsp; for the evening" vertex="1">
+          <mxGeometry height="70" width="130" x="345" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="6hfOot1SSwlr3GJgOmX9-13" edge="1" parent="1" source="6hfOot1SSwlr3GJgOmX9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6hfOot1SSwlr3GJgOmX9-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6hfOot1SSwlr3GJgOmX9-8" parent="1" style="whiteSpace=wrap;html=1;" value="set the light threshold" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="L1scxzGgN6GbeLCSn8-n-1" edge="1" parent="1" source="6hfOot1SSwlr3GJgOmX9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6hfOot1SSwlr3GJgOmX9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6hfOot1SSwlr3GJgOmX9-10" parent="1" style="whiteSpace=wrap;html=1;" value="open App" vertex="1">
+          <mxGeometry height="60" width="120" x="355" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6hfOot1SSwlr3GJgOmX9-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Save the schedule&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="600" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

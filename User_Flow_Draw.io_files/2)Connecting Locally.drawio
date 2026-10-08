@@ -1,0 +1,92 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="67XJjjyr719WD2je5Twr">
+    <mxGraphModel dx="3662" dy="1326" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mKndhRxdFM-sS3IE2W-i-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;fontSize=14;" value="Authentication / Sign In / Sign Up" vertex="1">
+          <mxGeometry height="55" width="260" x="260" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="mKndhRxdFM-sS3IE2W-i-16" edge="1" parent="1" source="mKndhRxdFM-sS3IE2W-i-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="837.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mKndhRxdFM-sS3IE2W-i-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3f2fd;strokeColor=#1565c0;fontStyle=1;fontSize=14;" value="FARM DASHBOARD" vertex="1">
+          <mxGeometry height="65" width="300" x="240" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="mKndhRxdFM-sS3IE2W-i-8" edge="1" parent="1" source="mKndhRxdFM-sS3IE2W-i-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="mKndhRxdFM-sS3IE2W-i-7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="76LsodYbYgaL0BLnu3Hp-8" connectable="0" parent="mKndhRxdFM-sS3IE2W-i-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="To add New Farm" vertex="1">
+          <mxGeometry relative="1" x="-0.1991" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mKndhRxdFM-sS3IE2W-i-14" edge="1" parent="1" source="mKndhRxdFM-sS3IE2W-i-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="mKndhRxdFM-sS3IE2W-i-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mKndhRxdFM-sS3IE2W-i-13" parent="1" style="whiteSpace=wrap;html=1;" value="App Starts" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="76LsodYbYgaL0BLnu3Hp-2" edge="1" parent="1" source="mKndhRxdFM-sS3IE2W-i-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="76LsodYbYgaL0BLnu3Hp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="76LsodYbYgaL0BLnu3Hp-3" connectable="0" parent="76LsodYbYgaL0BLnu3Hp-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Go to Add Farm option" vertex="1">
+          <mxGeometry relative="1" x="-0.0981" y="-5" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mKndhRxdFM-sS3IE2W-i-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E9D5FF;strokeColor=#A855F7;fontSize=14;fontStyle=1;" value="4. SETTINGS" vertex="1">
+          <mxGeometry height="42" width="150" x="315" y="844" as="geometry" />
+        </mxCell>
+        <mxCell id="mKndhRxdFM-sS3IE2W-i-61" edge="1" parent="1" source="mKndhRxdFM-sS3IE2W-i-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="mKndhRxdFM-sS3IE2W-i-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mKndhRxdFM-sS3IE2W-i-62" edge="1" parent="1" source="mKndhRxdFM-sS3IE2W-i-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="mKndhRxdFM-sS3IE2W-i-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mKndhRxdFM-sS3IE2W-i-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1;" value="After Products purchased" vertex="1">
+          <mxGeometry height="60" width="190" x="770" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="mKndhRxdFM-sS3IE2W-i-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" value="Devices is being setted up" vertex="1">
+          <mxGeometry height="60" width="180" x="1210" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="mKndhRxdFM-sS3IE2W-i-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;" value="Power ON&#xa;Master Controller" vertex="1">
+          <mxGeometry height="60" width="200" x="1200" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="mKndhRxdFM-sS3IE2W-i-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1;" value="Master Controller is&#xa;New / Unconfigured" vertex="1">
+          <mxGeometry height="70" width="230" x="1185" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="mKndhRxdFM-sS3IE2W-i-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1;" value="Creates Temporary Wi-Fi AP&#xa;SSID: Samposhi_Setup" vertex="1">
+          <mxGeometry height="80" width="260" x="1170" y="896.25" as="geometry" />
+        </mxCell>
+        <mxCell id="mKndhRxdFM-sS3IE2W-i-57" edge="1" parent="1" source="mKndhRxdFM-sS3IE2W-i-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="mKndhRxdFM-sS3IE2W-i-54" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mKndhRxdFM-sS3IE2W-i-58" edge="1" parent="1" source="mKndhRxdFM-sS3IE2W-i-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="mKndhRxdFM-sS3IE2W-i-55" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mKndhRxdFM-sS3IE2W-i-59" edge="1" parent="1" source="mKndhRxdFM-sS3IE2W-i-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" target="mKndhRxdFM-sS3IE2W-i-56" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="76LsodYbYgaL0BLnu3Hp-5" edge="1" parent="1" source="76LsodYbYgaL0BLnu3Hp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="76LsodYbYgaL0BLnu3Hp-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="76LsodYbYgaL0BLnu3Hp-6" connectable="0" parent="76LsodYbYgaL0BLnu3Hp-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Go to add shed option" vertex="1">
+          <mxGeometry relative="1" x="-0.1616" y="5" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="76LsodYbYgaL0BLnu3Hp-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;fontSize=14;" value="Add Farm Details&lt;div&gt;Farm Name&lt;/div&gt;&lt;div&gt;Location&lt;/div&gt;&lt;div&gt;Manager Name&amp;nbsp;&lt;/div&gt;&lt;div&gt;Employee&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="260" x="260" y="965" as="geometry" />
+        </mxCell>
+        <mxCell id="76LsodYbYgaL0BLnu3Hp-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#333333;fontSize=14;" value="Shed Name :&lt;div&gt;Type of shed :&lt;/div&gt;&lt;div&gt;Capacity :&lt;/div&gt;&lt;div&gt;Yield :&lt;/div&gt;&lt;div&gt;Water :&lt;/div&gt;&lt;div&gt;Nutrition:&lt;/div&gt;&lt;div&gt;Feed level&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="290" x="245" y="1225" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

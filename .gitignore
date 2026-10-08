@@ -1,0 +1,22 @@
+# Windows
+desktop.ini
+Thumbs.db
+
+# Node.js
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Build files
+dist/
+build/
+
+# Logs
+*.log
+
+# IDE/editor
+.vscode/
+.idea/
